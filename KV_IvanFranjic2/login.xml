@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <admins>
+    <admin id="1" ime="Ivan" prezime="Franjic" user="ifranjic" lozinka="abc"></admin>
+  </admins>
+</data>

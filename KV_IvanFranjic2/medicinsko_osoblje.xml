@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <medicinsko_osoblje>
+    <osoblje id="15" ime="Mate" prezime="Matic" tip="1" dom_zdravlja="1" djelatnost="10">
+    </osoblje>
+    <osoblje id="16" ime="Igor" prezime="Igic" tip="1" dom_zdravlja="4" djelatnost="11">
+    </osoblje>
+    <osoblje id="17" ime="Marko" prezime="Markic" tip="1" dom_zdravlja="4" djelatnost="13">
+    </osoblje>
+    <osoblje id="18" ime="Ana" prezime="Anic" tip="2" dom_zdravlja="1" djelatnost="11">
+    </osoblje>
+    <osoblje id="19" ime="Petar" prezime="Preradovic" tip="1" dom_zdravlja="5" djelatnost="12">
+    </osoblje>
+    <osoblje id="20" ime="Lana" prezime="Lanic" tip="2" dom_zdravlja="3" djelatnost="12">
+    </osoblje>
+    <osoblje ime="Marica" prezime="Maric" tip="2" dom_zdravlja="1" djelatnost="11" />
+    <osoblje ime="Pero" prezime="Peric" tip="1" dom_zdravlja="1" djelatnost="10" />
+  </medicinsko_osoblje>
+  <tipovi>
+    <tip id="1" naziv="Doktor">
+    </tip>
+    <tip id="2" naziv="Medicinska sestra">
+    </tip>
+  </tipovi>
+  <domovi_zdravlja>
+    <dom_zdravlja id="1" naziv="Slatina">
+    </dom_zdravlja>
+    <dom_zdravlja id="2" naziv="Virovitica">
+    </dom_zdravlja>
+    <dom_zdravlja id="3" naziv="Orahovica">
+    </dom_zdravlja>
+    <dom_zdravlja id="4" naziv="Nasice">
+    </dom_zdravlja>
+    <dom_zdravlja id="5" naziv="Bjelovar">
+    </dom_zdravlja>
+  </domovi_zdravlja>
+  <djelatnosti>
+    <djelatnost id="10" naziv="Opca medicina">
+    </djelatnost>
+    <djelatnost id="11" naziv="Stomatologija">
+    </djelatnost>
+    <djelatnost id="12" naziv="Pedijatrija">
+    </djelatnost>
+    <djelatnost id="13" naziv="Ginekologija">
+    </djelatnost>
+    <djelatnost id="14" naziv="Psihologija">
+    </djelatnost>
+  </djelatnosti>
+</data>
